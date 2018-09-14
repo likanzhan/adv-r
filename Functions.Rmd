@@ -1158,7 +1158,7 @@ sapply(1:5, `+`, 3)
 
 We'll explore this idea in detail in [functionals].
 
-### Prefix form {prefix-form}
+### Prefix form {#prefix-form}
 \index{functions!arguments}
 
 The prefix form is the most common form in R code, and indeed in the majority of programming languages. Prefix calls in R are a little special because you can specify arguments in three ways:
